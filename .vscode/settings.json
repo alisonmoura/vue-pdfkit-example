@@ -3,5 +3,6 @@
         "source.fixAll": true,
         "source.organizeImports": true,
     },
-    "eslint.codeActionsOnSave.mode": "all"
+    "eslint.codeActionsOnSave.mode": "all",
+    "git.ignoreLimitWarning": true
 }
