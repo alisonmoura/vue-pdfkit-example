@@ -1,4 +1,6 @@
-# vue-pdfkit-example
+# Vue2 + PDFKit Example
+
+A simple example of a Vue application with full client-side PDFKit.
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
